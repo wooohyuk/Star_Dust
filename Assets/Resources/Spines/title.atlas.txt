@@ -1,0 +1,69 @@
+
+title.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light0
+  rotate: false
+  xy: 2, 585
+  size: 306, 306
+  orig: 306, 306
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 2, 893
+  size: 540, 83
+  orig: 540, 83
+  offset: 0, 0
+  index: -1
+planet0
+  rotate: false
+  xy: 154, 277
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+planet1
+  rotate: false
+  xy: 943, 941
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+power
+  rotate: false
+  xy: 310, 731
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+title
+  rotate: true
+  xy: 154, 294
+  size: 289, 63
+  orig: 289, 63
+  offset: 0, 0
+  index: -1
+track0
+  rotate: false
+  xy: 2, 79
+  size: 107, 126
+  orig: 107, 126
+  offset: 0, 0
+  index: -1
+track1
+  rotate: true
+  xy: 2, 207
+  size: 376, 150
+  orig: 376, 150
+  offset: 0, 0
+  index: -1
+wave
+  rotate: false
+  xy: 544, 875
+  size: 397, 101
+  orig: 397, 101
+  offset: 0, 0
+  index: -1

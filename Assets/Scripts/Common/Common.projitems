@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>bb89e2f4-def7-4cb2-899d-5b4a571e9b75</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Common</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Logic\Vector2.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Logic\Vector3.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Log\Logger.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StaticData\AbstractTableData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StaticData\ActionInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StaticData\BotInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StaticData\EffectInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StaticData\GameRuleInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StaticData\IStaticData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StaticData\ListRapper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StaticData\ShakeInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StaticData\UnitInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StaticInfo\SpecificInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StaticInfo\StaticInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StaticInfo\StaticInfoManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StaticInfo\StaticInfoNotFoundException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StaticInfo\TableInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Types\Unit.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utility\Bounds.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utility\Constructor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utility\FileUtil.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utility\Math.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utility\MiscExtensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utility\ObjectExtensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utility\SerialIssuer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utility\XmlDeserializer.cs" />
+  </ItemGroup>
+</Project>

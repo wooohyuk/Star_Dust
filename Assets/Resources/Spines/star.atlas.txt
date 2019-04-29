@@ -1,0 +1,97 @@
+
+star.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b0
+  rotate: false
+  xy: 330, 292
+  size: 262, 86
+  orig: 262, 86
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 2, 638
+  size: 326, 326
+  orig: 326, 326
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 330, 552
+  size: 540, 84
+  orig: 540, 84
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 658, 867
+  size: 286, 97
+  orig: 286, 97
+  offset: 0, 0
+  index: -1
+w0
+  rotate: false
+  xy: 594, 292
+  size: 262, 86
+  orig: 262, 86
+  offset: 0, 0
+  index: -1
+w1
+  rotate: false
+  xy: 2, 310
+  size: 326, 326
+  orig: 326, 326
+  offset: 0, 0
+  index: -1
+w2
+  rotate: false
+  xy: 330, 466
+  size: 540, 84
+  orig: 540, 84
+  offset: 0, 0
+  index: -1
+w4
+  rotate: false
+  xy: 658, 768
+  size: 286, 97
+  orig: 286, 97
+  offset: 0, 0
+  index: -1
+y0
+  rotate: false
+  xy: 310, 204
+  size: 262, 86
+  orig: 262, 86
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 330, 638
+  size: 326, 326
+  orig: 326, 326
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 330, 380
+  size: 540, 84
+  orig: 540, 84
+  offset: 0, 0
+  index: -1
+y3
+  rotate: false
+  xy: 2, 2
+  size: 306, 306
+  orig: 306, 306
+  offset: 0, 0
+  index: -1
+y4
+  rotate: false
+  xy: 658, 669
+  size: 286, 97
+  orig: 286, 97
+  offset: 0, 0
+  index: -1

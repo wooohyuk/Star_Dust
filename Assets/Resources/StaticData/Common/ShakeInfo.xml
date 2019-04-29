@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfShakeInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<!-- 시스템 -->
+	<!-- 몬스터 사망 -->
+	<ShakeInfo Id="Dead_Monster">
+		<Duration>0.2</Duration>
+		<Scale>0.8</Scale>
+		<Delay>0</Delay>
+		<Speed>15</Speed>
+		<PositionInfluence>
+			<x>0.8</x>
+			<y>0.8</y>
+			<z>0.8</z>
+		</PositionInfluence>
+	</ShakeInfo>
+	<ShakeInfo Id="GameResult">
+		<Duration>0.7</Duration>
+		<Scale>2</Scale>
+		<Delay>0</Delay>
+		<Speed>5</Speed>
+		<!--<FadeInTime>0.3</FadeInTime>-->
+		<FadeOutTime>0.65</FadeOutTime>
+		<PositionInfluence>
+			<x>1</x>
+			<y>1</y>
+			<z>1</z>
+		</PositionInfluence>
+	</ShakeInfo>
+
+	<ShakeInfo Id="Test_Infinite">
+		<Duration>0</Duration>
+		<FadeInTime>3</FadeInTime>
+		<FadeOutTime>3</FadeOutTime>
+		<Scale>1</Scale>
+		<Delay>0</Delay>
+		<Speed>5</Speed>
+		<PositionInfluence>
+			<x>1</x>
+			<y>1</y>
+			<z>1</z>
+		</PositionInfluence>
+		<RotationInfluence>
+			<x>0.1</x>
+			<y>0.1</y>
+			<z>0.1</z>
+		</RotationInfluence>
+	</ShakeInfo>
+</ArrayOfShakeInfo>
